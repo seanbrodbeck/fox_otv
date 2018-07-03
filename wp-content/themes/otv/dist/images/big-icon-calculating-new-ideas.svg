@@ -1,0 +1,45 @@
+<svg id="idea-feature" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305.07 328.89">
+	<defs>
+		<style>
+			.cls-1,.cls-3{stroke:#fff;stroke-width:1.5px}.cls-1{stroke-miterlimit:10;fill:#b30838}.cls-3{fill:none;stroke-linecap:round;stroke-linejoin:round}
+		</style>
+	</defs>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<path class="cls-1" d="M145.33 7.99a7.24 7.24 0 1 1 14.48 0 7.24 7.24 0 1 1-14.48 0" style="animation:RgFTtXBR_draw 2000ms linear 0ms forwards" stroke-dasharray="46 48" stroke-dashoffset="47" />
+			<path class="cls-1" d="M216.18 70.54a5.5 5.5 0 1 1 11 0 5.5 5.5 0 1 1-11 0" style="animation:RgFTtXBR_draw 2000ms linear 33ms forwards" stroke-dasharray="35 37" stroke-dashoffset="36" />
+			<path class="cls-1" d="M262.18 189.04a5.5 5.5 0 1 1 11 0 5.5 5.5 0 1 1-11 0" style="animation:RgFTtXBR_draw 2000ms linear 66ms forwards" stroke-dasharray="35 37" stroke-dashoffset="36" />
+			<path class="cls-1" d="M248.33 266.65a7.24 7.24 0 1 1 14.48 0 7.24 7.24 0 1 1-14.48 0" style="animation:RgFTtXBR_draw 2000ms linear 100ms forwards" stroke-dasharray="46 48" stroke-dashoffset="47" />
+			<path class="cls-1" d="M145.33 172.41a7.24 7.24 0 1 1 14.48 0 7.24 7.24 0 1 1-14.48 0" style="animation:RgFTtXBR_draw 2000ms linear 133ms forwards" stroke-dasharray="46 48" stroke-dashoffset="47" />
+			<path class="cls-1" d="M289.83 111.64a7.24 7.24 0 1 1 14.48 0 7.24 7.24 0 1 1-14.48 0" style="animation:RgFTtXBR_draw 2000ms linear 166ms forwards" stroke-dasharray="46 48" stroke-dashoffset="47" />
+			<path d="M130.39 172.46a22.32 22.32 0 1 1 44.64 0 22.32 22.32 0 1 1-44.64 0" style="animation:RgFTtXBR_draw 2000ms linear 200ms forwards" stroke-dasharray="141 143" stroke-dashoffset="142" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#fff" />
+			<path id="_Path_" data-name="&lt;Path&gt;" class="cls-3" d="M151.84 107.19A63.44 63.44 0 0 1 208 200.37c-4.13 7.76-9.54 14.73-14.14 22.2a77.46 77.46 0 0 0-9.51 23.24c-1.45 6.29-1.87 19.46-2 25.89h-59.11c-.17-6.43-.6-19.6-2-25.89a77.48 77.48 0 0 0-9.52-23.24c-4.59-7.47-10-14.44-14.13-22.2a63.44 63.44 0 0 1 56.14-93.18" style="animation:RgFTtXBR_draw 2000ms linear 233ms forwards" stroke-dasharray="476 478" stroke-dashoffset="477" />
+			<path id="_Path_2" data-name="&lt;Path&gt;" class="cls-3" d="M153.59 114.64a56.14 56.14 0 0 0-49.69 82.46c3.66 6.87 8.44 13 12.51 19.65 3.9 6.34 9 13.32 10.61 20.57a156.56 156.56 0 0 1 2.91 22.9v11.32" style="animation:RgFTtXBR_draw 2000ms linear 266ms forwards" stroke-dasharray="197 199" stroke-dashoffset="198" />
+			<path id="_Path_3" data-name="&lt;Path&gt;" class="cls-3" d="M174.42 280.11l-41.74-.28" style="animation:RgFTtXBR_draw 2000ms linear 300ms forwards" stroke-dasharray="42 44" stroke-dashoffset="43" />
+			<path id="_Path_4" data-name="&lt;Path&gt;" class="cls-3" d="M172.22 288.29l-37.34-.28" style="animation:RgFTtXBR_draw 2000ms linear 333ms forwards" stroke-dasharray="38 40" stroke-dashoffset="39" />
+			<path id="_Path_5" data-name="&lt;Path&gt;" class="cls-3" d="M171.12 296.47l-35.14-.28" style="animation:RgFTtXBR_draw 2000ms linear 366ms forwards" stroke-dasharray="36 38" stroke-dashoffset="37" />
+			<path id="_Path_6" data-name="&lt;Path&gt;" class="cls-3" d="M168.93 304.64l-30.76-.28" style="animation:RgFTtXBR_draw 2000ms linear 400ms forwards" stroke-dasharray="31 33" stroke-dashoffset="32" />
+			<path id="_Path_7" data-name="&lt;Path&gt;" class="cls-3" d="M168.93 312.32l-30.76-.28" style="animation:RgFTtXBR_draw 2000ms linear 433ms forwards" stroke-dasharray="31 33" stroke-dashoffset="32" />
+			<path id="_Path_8" data-name="&lt;Path&gt;" class="cls-3" d="M152 114.64a56.14 56.14 0 0 1 49.69 82.46c-3.66 6.87-8.44 13-12.51 19.65-3.9 6.34-8.95 13.32-10.62 20.57a157.92 157.92 0 0 0-2.9 22.9v11.32" style="animation:RgFTtXBR_draw 2000ms linear 466ms forwards" stroke-dasharray="197 199" stroke-dashoffset="198" />
+			<path class="cls-3" d="M152.25 271.16v-91.02" style="animation:RgFTtXBR_draw 2000ms linear 500ms forwards" stroke-dasharray="92 94" stroke-dashoffset="93" />
+			<path class="cls-3" d="M141.8 322.65l-.24-.11a17.84 17.84 0 0 1-9.94-13.63l-5.18-36.72" style="animation:RgFTtXBR_draw 2000ms linear 533ms forwards" stroke-dasharray="55 57" stroke-dashoffset="56" />
+			<path class="cls-3" d="M180.77 272.19l-5.18 36.72a17.84 17.84 0 0 1-9.94 13.63l-.24.11-11 5.49-12.88-5.6" style="animation:RgFTtXBR_draw 2000ms linear 566ms forwards" stroke-dasharray="82 84" stroke-dashoffset="83" />
+			<path class="cls-3" d="M159.12 168.47l130.67-52.35" style="animation:RgFTtXBR_draw 2000ms linear 600ms forwards" stroke-dasharray="141 143" stroke-dashoffset="142" />
+			<path class="cls-3" d="M152.46 165.13V16.15" style="animation:RgFTtXBR_draw 2000ms linear 633ms forwards" stroke-dasharray="149 151" stroke-dashoffset="150" />
+			<path class="cls-3" d="M156.12 165.8l61.67-90.67" style="animation:RgFTtXBR_draw 2000ms linear 666ms forwards" stroke-dasharray="110 112" stroke-dashoffset="111" />
+			<path class="cls-1" d="M158.79 176.47l90 87.33" style="animation:RgFTtXBR_draw 2000ms linear 700ms forwards" stroke-dasharray="126 128" stroke-dashoffset="127" />
+			<path class="cls-1" d="M159.79 173.13l101.67 15.67" style="animation:RgFTtXBR_draw 2000ms linear 733ms forwards" stroke-dasharray="103 105" stroke-dashoffset="104" />
+			<path class="cls-1" d="M77.63 70.54a5.5 5.5 0 1 1 11 0 5.5 5.5 0 1 1-11 0" style="animation:RgFTtXBR_draw 2000ms linear 766ms forwards" stroke-dasharray="35 37" stroke-dashoffset="36" />
+			<path class="cls-1" d="M31.63 189.04a5.5 5.5 0 1 1 11 0 5.5 5.5 0 1 1-11 0" style="animation:RgFTtXBR_draw 2000ms linear 800ms forwards" stroke-dasharray="35 37" stroke-dashoffset="36" />
+			<path class="cls-1" d="M42 266.65a7.24 7.24 0 1 1 14.48 0 7.24 7.24 0 1 1-14.48 0" style="animation:RgFTtXBR_draw 2000ms linear 833ms forwards" stroke-dasharray="46 48" stroke-dashoffset="47" />
+			<path class="cls-1" d="M.75 112.14a7.24 7.24 0 1 1 14.48 0 7.24 7.24 0 1 1-14.48 0" style="animation:RgFTtXBR_draw 2000ms linear 866ms forwards" stroke-dasharray="46 48" stroke-dashoffset="47" />
+			<path class="cls-3" d="M145.69 168.47L15.02 116.12" style="animation:RgFTtXBR_draw 2000ms linear 900ms forwards" stroke-dasharray="141 143" stroke-dashoffset="142" />
+			<path class="cls-3" d="M148.69 165.8L87.02 75.13" style="animation:RgFTtXBR_draw 2000ms linear 933ms forwards" stroke-dasharray="110 112" stroke-dashoffset="111" />
+			<path class="cls-1" d="M146.02 176.47l-90 87.33" style="animation:RgFTtXBR_draw 2000ms linear 966ms forwards" stroke-dasharray="126 128" stroke-dashoffset="127" />
+			<path class="cls-1" d="M145.02 173.13L43.36 188.8" style="animation:RgFTtXBR_draw 2000ms linear 1000ms forwards" stroke-dasharray="103 105" stroke-dashoffset="104" />
+		</g>
+	</g>
+	<style data-made-with="vivus-instant">
+		@keyframes RgFTtXBR_draw{to{stroke-dashoffset:0}}@keyframes RgFTtXBR_fade{0%,94.44444444444444%{stroke-opacity:1}to{stroke-opacity:0}}
+	</style>
+</svg>

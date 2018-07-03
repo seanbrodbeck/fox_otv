@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.1 492.3" id="burst3">
+  <defs>
+    <style>
+      .burst3-cls-1{fill:#e6e6e6;}
+      .burst3-cls-2,.burst3-cls-5,.burst3-cls-6,.burst3-cls-7,.burst3-cls-8{fill:none;}
+      .burst3-cls-10,.burst3-cls-2,.burst3-cls-3,.burst3-cls-5,.burst3-cls-6,.burst3-cls-7,.burst3-cls-8,.burst3-cls-9{stroke:#e6e6e6;}
+      .burst3-cls-10,.burst3-cls-2,.burst3-cls-3,.burst3-cls-9{stroke-miterlimit:10;}
+      .burst3-cls-10,.burst3-cls-3,.burst3-cls-4,.burst3-cls-9{fill:#fff;}
+      .burst3-cls-3,.burst3-cls-8{stroke-width:4px;}
+      .burst3-cls-5,.burst3-cls-6,.burst3-cls-7,.burst3-cls-8{stroke-linecap:round;stroke-linejoin:round;}
+      .burst3-cls-5{stroke-width:2px;stroke-dasharray:0 5.01;}
+      .burst3-cls-6,.burst3-cls-7{stroke-width:3.35px;}
+      .burst3-cls-6{stroke-dasharray:0 6.68;}
+      .burst3-cls-7{stroke-dasharray:0 6.73;}
+      .burst3-cls-8{stroke-dasharray:0 7.92;}
+      .burst3-cls-10{stroke-width:2.01px;}
+    </style>
+  </defs>
+  <title>
+    burst3
+  </title>
+  <g data-name="Layer 2">
+      <circle class="burst3-cls-1" cx="381.7" cy="201.3" r="3.6"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="256.7" y2="452.9"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="235.8" y2="424.7"/>
+      <line class="burst3-cls-2" x1="255.4" y1="375.7" x2="200.4" y2="430.7"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="195" y2="399.9"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="209.2" y2="374.4"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="216.8" y2="357.8"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="223.6" y2="341.3"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="256.7" y2="344.5"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="281.3" y2="315"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="297.6" y2="357.4"/>
+      <line class="burst3-cls-2" x1="255.4" y1="374.4" x2="323.9" y2="374.4"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="284.3" y2="385.8"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="300.8" y2="418.5"/>
+      <line class="burst3-cls-2" x1="256.7" y1="374.4" x2="275" y2="418.5"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="256.7" y2="438.1"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="123.9" y2="470.2"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="84.3" y2="321.9"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="0.2" y2="255.7"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="13.1" y2="149.5"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="124.9" y2="94.9"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="185.4" y2="78.2"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="196.5" y2="4.1"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="256.7" y2="33.4"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="317" y2="4.1"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="380.6" y2="25.6"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="398.7" y2="90.7"/>
+      <line class="burst3-cls-2" x1="256.4" y1="149.5" x2="465.2" y2="149.5"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="381.7" y2="201.3"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="322.6" y2="215.4"/>
+      <line class="burst3-cls-2" x1="256.7" y1="149.5" x2="334.8" y2="337.9"/>
+      <circle class="burst3-cls-3" cx="256.7" cy="375.7" r="8.3"/>
+      <circle class="burst3-cls-4" cx="256.7" cy="148.5" r="39.7"/>
+      <circle class="burst3-cls-1" cx="185.4" cy="78.2" r="3.6"/>
+      <circle class="burst3-cls-1" cx="217.4" cy="357.8" r="3.6"/>
+      <circle class="burst3-cls-5" cx="398.7" cy="90.7" r="12.8"/>
+      <circle class="burst3-cls-6" cx="256.7" cy="465.1" r="12.8"/>
+      <circle class="burst3-cls-1" cx="398.7" cy="90.7" r="6.9"/>
+      <circle class="burst3-cls-7" cx="123.9" cy="470.2" r="20.4"/>
+      <circle class="burst3-cls-1" cx="123.9" cy="470.2" r="10.9"/>
+      <circle class="burst3-cls-8" cx="256.7" cy="148.5" r="27.7" transform="translate(-37.28 109.54)rotate(-22.5)"/>
+      <circle class="burst3-cls-9" cx="275" cy="418.5" r="3.6"/>
+      <circle class="burst3-cls-9" cx="281.3" cy="315" r="3.6"/>
+      <circle class="burst3-cls-9" cx="200.4" cy="430.7" r="3.6"/>
+      <circle class="burst3-cls-9" cx="223.6" cy="341.3" r="3.6"/>
+      <circle class="burst3-cls-9" cx="209.2" cy="374.4" r="3.6"/>
+      <circle class="burst3-cls-9" cx="284.7" cy="385.8" r="3.6"/>
+      <circle class="burst3-cls-9" cx="322.6" cy="216.7" r="3.6"/>
+      <circle class="burst3-cls-9" cx="380.6" cy="25.6" r="3.6"/>
+      <circle class="burst3-cls-9" cx="196.7" cy="4.1" r="3.6"/>
+      <circle class="burst3-cls-9" cx="334.8" cy="337.9" r="3.6"/>
+      <path class="burst3-cls-4" d="M461.9 155.1h-0.4a5.6 5.6 0 0 1 0.4-11.3l0.4 0a5.7 5.7 0 0 1 5.2 6 5.7 5.7 0 0 1-5.6 5.2Z"/>
+      <path class="burst3-cls-1" d="M461.9 145.3h0.3a4.1 4.1 0 0 1-0.3 8.3h-0.3a4.1 4.1 0 0 1 0.3-8.3m0-3a7.1 7.1 0 0 0-0.5 14.3 4.5 4.5 0 0 0 0.5 0 7.1 7.1 0 0 0 0.5-14.3l-0.5 0Z"/>
+      <circle class="burst3-cls-10" cx="124.9" cy="93.9" r="7.1"/>
+      <circle class="burst3-cls-1" cx="195" cy="399.5" r="3.6"/>
+      <circle class="burst3-cls-1" cx="235.8" cy="424.7" r="3.6"/>
+      <circle class="burst3-cls-1" cx="300.8" cy="418.9" r="3.6"/>
+      <circle class="burst3-cls-1" cx="322.6" cy="374.4" r="3.6"/>
+      <circle class="burst3-cls-1" cx="297.6" cy="357.4" r="3.6"/>
+      <circle class="burst3-cls-1" cx="84.3" cy="321.9" r="3.6"/>
+      <circle class="burst3-cls-1" cx="317" cy="4.1" r="3.6"/>
+      <circle class="burst3-cls-1" cx="256.4" cy="37.9" r="3.6"/>
+  </g>
+</svg>
+ 

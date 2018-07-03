@@ -1,0 +1,45 @@
+<svg id="uber-feature" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 233.97 303.47">
+	<defs>
+		<style>
+			.cls-1,.cls-2,.cls-4{fill:none}.cls-1,.cls-2,.cls-3,.cls-4{stroke:#fff;stroke-width:1.5px}.cls-1,.cls-3,.cls-4{stroke-linejoin:round}.cls-2{stroke-miterlimit:10}.cls-3{fill:#b30838}.cls-3,.cls-4{stroke-linecap:round}
+		</style>
+	</defs>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<path class="cls-1" d="M73.74 10.78h22.98a2 2 0 0 1 2 2v1.45a2 2 0 0 1-2 2H73.74a2 2 0 0 1-2-2v-1.45a2 2 0 0 1 2-2" style="animation:DkCpEhMT_draw 2000ms linear 0ms forwards" stroke-dasharray="62 64" stroke-dashoffset="63" />
+			<path class="cls-1" d="M60.38 13.51a2.73 2.73 0 1 1 5.46 0 2.73 2.73 0 1 1-5.46 0" style="animation:DkCpEhMT_draw 2000ms linear 33ms forwards" stroke-dasharray="18 20" stroke-dashoffset="19" />
+			<path class="cls-1" d="M67.95 281.24a11.66 11.66 0 1 1 23.32 0 11.66 11.66 0 1 1-23.32 0" style="animation:DkCpEhMT_draw 2000ms linear 66ms forwards" stroke-dasharray="74 76" stroke-dashoffset="75" />
+			<path class="cls-2" d="M158.47 290.64c0 .42 0 .83-.06 1.24.04-.41.06-.82.06-1.24z" style="animation:DkCpEhMT_draw 2000ms linear 100ms forwards" stroke-dasharray="3 5" stroke-dashoffset="4" />
+			<path class="cls-2" d="M158.41 291.88a12 12 0 0 1-1.41 4.52 12 12 0 0 0 1.41-4.52z" style="animation:DkCpEhMT_draw 2000ms linear 133ms forwards" stroke-dasharray="10 12" stroke-dashoffset="11" />
+			<path class="cls-2" d="M155.72 298.32a12 12 0 0 0 1.3-1.92 12 12 0 0 1-1.3 1.92z" style="animation:DkCpEhMT_draw 2000ms linear 166ms forwards" stroke-dasharray="5 7" stroke-dashoffset="6" />
+			<path class="cls-1" d="M151.96 225.63v34.69H7.14V26.93h144.82" style="animation:DkCpEhMT_draw 2000ms linear 200ms forwards" stroke-dasharray="558 560" stroke-dashoffset="559" />
+			<path class="cls-1" d="M158.41 291.88s-.17-116.35.06-116.35V12.82A12.07 12.07 0 0 0 146.4.75H12.82A12.08 12.08 0 0 0 .75 12.82v277.82a12.08 12.08 0 0 0 12.07 12.08H146.4a12.05 12.05 0 0 0 12-10.84c0-.41.06-.82.06-1.24" style="animation:DkCpEhMT_draw 2000ms linear 233ms forwards" stroke-dasharray="900 902" stroke-dashoffset="901" />
+			<path class="cls-1" d="M151.96 225.63v34.69H7.14V26.93h144.82v198.7" style="animation:DkCpEhMT_draw 2000ms linear 266ms forwards" stroke-dasharray="757 759" stroke-dashoffset="758" />
+			<path class="cls-2" d="M7.14 37.83h144.82" style="animation:DkCpEhMT_draw 2000ms linear 300ms forwards" stroke-dasharray="145 147" stroke-dashoffset="146" />
+			<path class="cls-3" d="M101.29 205l2.27-27s-.2-.29-.92-.36H82.79a5.33 5.33 0 0 1-5.26-5.37v-93.7a5.33 5.33 0 0 1 5.26-5.37H228a5.33 5.33 0 0 1 5.26 5.37v93.71a5.33 5.33 0 0 1-5.26 5.37h-88.67l-.83.36-37.2 27" style="animation:DkCpEhMT_draw 2000ms linear 333ms forwards" stroke-dasharray="550 552" stroke-dashoffset="551" />
+			<path class="cls-3" d="M85.28 217.61h19.11a2 2 0 0 1 2 2v19.11a2 2 0 0 1-2 2H85.28a2 2 0 0 1-2-2v-19.11a2 2 0 0 1 2-2" style="animation:DkCpEhMT_draw 2000ms linear 366ms forwards" stroke-dasharray="90 92" stroke-dashoffset="91" />
+			<path class="cls-3" d="M87.2 221.53h15.28v15.28H87.2v-15.28" style="animation:DkCpEhMT_draw 2000ms linear 400ms forwards" stroke-dasharray="62 64" stroke-dashoffset="63" />
+			<path class="cls-3" d="M54.03 217.61h19.11a2 2 0 0 1 2 2v19.11a2 2 0 0 1-2 2H54.03a2 2 0 0 1-2-2v-19.11a2 2 0 0 1 2-2" style="animation:DkCpEhMT_draw 2000ms linear 433ms forwards" stroke-dasharray="90 92" stroke-dashoffset="91" />
+			<path class="cls-3" d="M22.91 217.61h19.11a2 2 0 0 1 2 2v19.11a2 2 0 0 1-2 2H22.91a2 2 0 0 1-2-2v-19.11a2 2 0 0 1 2-2" style="animation:DkCpEhMT_draw 2000ms linear 466ms forwards" stroke-dasharray="90 92" stroke-dashoffset="91" />
+			<path class="cls-3" d="M116.4 217.61h19.11a2 2 0 0 1 2 2v19.11a2 2 0 0 1-2 2H116.4a2 2 0 0 1-2-2v-19.11a2 2 0 0 1 2-2" style="animation:DkCpEhMT_draw 2000ms linear 500ms forwards" stroke-dasharray="90 92" stroke-dashoffset="91" />
+			<path class="cls-4" d="M157.45 100.55h-18.94c-6.32 0-7.58 4.54-7.58 4.54l-9.74 24.15h-5.59a3.69 3.69 0 0 0-1.26 2.34c0 1.27.36 3.43 1.44 3.43H121v17.5s.18 3.25 5.95 3.25h30" style="animation:DkCpEhMT_draw 2000ms linear 533ms forwards" stroke-dasharray="127 129" stroke-dashoffset="128" />
+			<path class="cls-3" d="M129.3 139.24a4.73 4.73 0 1 1 9.46 0 4.73 4.73 0 1 1-9.46 0" style="animation:DkCpEhMT_draw 2000ms linear 566ms forwards" stroke-dasharray="30 32" stroke-dashoffset="31" />
+			<path class="cls-3" d="M157.72 105.43H138.4a2.68 2.68 0 0 0-2.54 1.81l-6.55 19.16h28.28" style="animation:DkCpEhMT_draw 2000ms linear 600ms forwards" stroke-dasharray="72 74" stroke-dashoffset="73" />
+			<path class="cls-4" d="M127 155.76v5.14s-.09 3 2.08 3h4.06s3 0 3-2.7v-5" style="animation:DkCpEhMT_draw 2000ms linear 633ms forwards" stroke-dasharray="23 25" stroke-dashoffset="24" />
+			<path class="cls-3" d="M157.45 143.13h-10.62" style="animation:DkCpEhMT_draw 2000ms linear 666ms forwards" stroke-dasharray="11 13" stroke-dashoffset="12" />
+			<path class="cls-3" d="M157.27 139.52h-9.7" style="animation:DkCpEhMT_draw 2000ms linear 700ms forwards" stroke-dasharray="10 12" stroke-dashoffset="11" />
+			<path class="cls-4" d="M156.94 100.55h18.94c6.32 0 7.58 4.54 7.58 4.54l9.74 24.15h5.59a3.68 3.68 0 0 1 1.27 2.34c0 1.27-.36 3.43-1.45 3.43h-5.23v17.5s-.18 3.25-5.95 3.25h-30" style="animation:DkCpEhMT_draw 2000ms linear 733ms forwards" stroke-dasharray="127 129" stroke-dashoffset="128" />
+			<path class="cls-3" d="M175.63 139.24a4.73 4.73 0 1 1 9.46 0 4.73 4.73 0 1 1-9.46 0" style="animation:DkCpEhMT_draw 2000ms linear 766ms forwards" stroke-dasharray="30 32" stroke-dashoffset="31" />
+			<path class="cls-3" d="M156.67 105.43H176a2.71 2.71 0 0 1 2.55 1.81l6.54 19.16h-28.28" style="animation:DkCpEhMT_draw 2000ms linear 800ms forwards" stroke-dasharray="72 74" stroke-dashoffset="73" />
+			<path class="cls-4" d="M187.43 155.76v5.14s.09 3-2.07 3h-4.06s-3 0-3-2.7v-5" style="animation:DkCpEhMT_draw 2000ms linear 833ms forwards" stroke-dasharray="23 25" stroke-dashoffset="24" />
+			<path class="cls-3" d="M156.94 143.13h10.62" style="animation:DkCpEhMT_draw 2000ms linear 866ms forwards" stroke-dasharray="11 13" stroke-dashoffset="12" />
+			<path class="cls-3" d="M157.12 139.52h9.7" style="animation:DkCpEhMT_draw 2000ms linear 900ms forwards" stroke-dasharray="10 12" stroke-dashoffset="11" />
+			<path class="cls-3" d="M145.53 100.56l2.45-5.96h9.65" style="animation:DkCpEhMT_draw 2000ms linear 933ms forwards" stroke-dasharray="17 19" stroke-dashoffset="18" />
+			<path class="cls-3" d="M169.55 100.56l-2.45-5.96h-9.65" style="animation:DkCpEhMT_draw 2000ms linear 966ms forwards" stroke-dasharray="17 19" stroke-dashoffset="18" />
+			<path class="cls-3" d="M158.89 125.27a8.48 8.48 0 1 1 17 0" style="animation:DkCpEhMT_draw 2000ms linear 1000ms forwards" stroke-dasharray="27 29" stroke-dashoffset="28" />
+		</g>
+	</g>
+	<style data-made-with="vivus-instant">
+		@keyframes DkCpEhMT_draw{to{stroke-dashoffset:0}}@keyframes DkCpEhMT_fade{0%,94.44444444444444%{stroke-opacity:1}to{stroke-opacity:0}}
+	</style>
+</svg>

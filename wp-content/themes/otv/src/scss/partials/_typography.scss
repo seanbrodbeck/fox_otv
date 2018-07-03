@@ -1,0 +1,137 @@
+@font-face {
+  font-family: TradeGothicBoldCondensed;
+  src: url(../fonts/hinted-fox-tradeLTPro-BdCn20.ttf);
+}
+
+@font-face {
+  font-family: TradeGothicCondensed;
+  src: url(../fonts/hinted-fox-tradeLTStd-Cn18.ttf);
+}
+
+@font-face {
+  font-family: TradeGothicRegular;
+  src: url(../fonts/TradeGothicLTPro.otf);
+}
+
+@font-face {
+  font-family: KO;
+  src: url(../fonts/hinted-fox-knock-HTF67-FullBantamwt.ttf);
+}
+
+body {
+  font-size: calc(16px + (20 - 16) * (100vw - 320px) / (1440 - 320));
+  font-family: TradeGothicRegular;
+  -webkit-font-smoothing: antialiased;
+  @media (min-width: $bp-xlg-min) {
+    font-size: 20px;
+  }
+  
+  i {
+    
+  }
+}
+
+h1  {
+	font-family: "TradeGothicBoldCondensed",sans-serif;
+  font-size: calc(20px + (32 - 20) * (100vw - 320px) / (1440 - 320));
+  
+}
+
+h2 {
+	/*font-family: "TradeGothicBoldCondensed",sans-serif;*/
+  font-family: "KO";
+  text-transform: uppercase;
+  font-size: calc(30px + (35 - 30) * (100vw - 320px) / (1440 - 320));
+  letter-spacing: 1px;
+  margin-bottom:30px;
+}
+
+h3 {
+  font-size: 20px;
+	a, a:visited {
+   
+    &:hover {
+      
+    }
+  }
+}
+
+h4 {
+
+}
+
+.headline {
+  font-family: "TradeGothicBoldCondensed",sans-serif;
+  text-transform: uppercase;
+  color:$black;
+  display:block;
+  font-size: 30px;
+  text-align: left;
+  letter-spacing: .02em;
+  margin-bottom:25px;
+  position: relative;
+  z-index: 1;
+  @media (min-width: $bp-md-min) {
+    font-size: 30px;
+    margin-bottom:30px;
+    text-align: right;
+    margin-bottom:15px;
+  }
+  &:visited {
+    color:$black;
+  }
+  span {
+    @media (min-width: $bp-md-min) {
+      font-family: "TradeGothicCondensed",sans-serif;
+      font-size: 22px;
+      text-transform: lowercase;
+      color:$red;
+    }
+  }
+  &.left {
+    text-align: left;
+  }
+}
+
+
+
+p {
+	position: relative;
+  z-index: 1;
+  font-size: calc(16px + (17 - 16) * (100vw - 320px) / (1440 - 320));
+  line-height: 1.6;
+  strong {
+   
+  }
+  &.large {
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    font-size: calc(16px + (18 - 16) * (100vw - 320px) / (1440 - 320));
+    line-height: 1.8;
+    &.red {
+      color:$red;
+    }
+  }
+}
+
+strong {
+  font-weight: 600;
+}
+
+
+blockquote {
+
+
+}
+
+.aligncenter {
+	text-align: center;
+}
+
+a {
+  
+	&:hover, &:active {
+		outline:none;
+		text-decoration: none;
+	}
+}

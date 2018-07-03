@@ -1,0 +1,181 @@
+footer {
+  padding: calc(20px + (60 - 20) * (100vw - 400px) / (1440 - 400)) calc(20px + (100 - 20) * (100vw - 400px) / (1440 - 400)) ;
+  background:$black;
+  color:$white;
+  .form-wrapper {
+    margin-top:50px;
+  }
+  .otv-form-row {
+    width:100%;
+    @media (min-width: $bp-md-min) {
+      margin-bottom:23px;
+    }
+  }
+  .ctct-form-wrapper input[type="text"]:required:valid, .ctct-form-wrapper input[type="email"]:required:valid, .ctct-form-wrapper input[type="password"]:required:valid, .ctct-form-wrapper input[type="tel"]:required:valid, .ctct-form-wrapper input[type="number"]:required:valid {
+      background-color:transparent;
+      background-position: 0px 50%;
+      padding-left: 30px;
+    }
+  .ctct-form-wrapper {
+    margin-top:30px;
+    .ctct-form-field {
+      position: relative;
+      margin-bottom:25px;
+    }
+    label {
+      color: #666;
+      font-size: 15px;
+      text-transform: lowercase;
+      position: absolute;
+      bottom:2px;
+      pointer-events:none;
+    }
+    .ctct-text, .ctct-email {
+      background:none;
+      border:none;
+      border-radius: 0;
+      border-bottom:1px solid $white;
+      margin-bottom:23px;
+      width:100%;
+      display: block;
+      font-size: 15px;
+      color:$white;
+      &:focus {
+        color:$white;
+        background: none;
+        outline: none;
+      }
+      @media (min-width: $bp-md-min) {
+        margin-bottom:0;
+      }
+
+    }
+    .ctct-form-field-text {
+      position: relative;
+      margin-bottom:25px;
+      @media (min-width: $bp-md-min) {
+        width: 49%;
+        float:left;
+        position: relative;
+        margin-bottom:25px;
+        &:nth-child(2) {
+          margin-right: 2%;
+        }
+      }
+
+    }
+    .ctct-form-field-submit {
+      margin-bottom:30px;
+      &:after {
+        content:'';
+        display:block;
+        clear:both;
+      }
+      @media (min-width: $bp-lg-min) {
+        margin-bottom:0px;
+      }
+    }
+    .ctct-address {
+      clear: both;
+    }
+
+    legend {
+      display:none;
+    }
+    .ctct-disclosure {
+      margin-top: 20px;
+      display: none;
+      hr {
+        display: none;
+      }
+      sub {
+        font-size:10px;
+        display:block;
+        clear:both;
+        line-height: 1.2;
+        margin-top: 20px;
+      }
+    }
+    .ctct-submit {
+      background:none;
+      font-family: TradeGothicBoldCondensed;
+      float:right;
+      text-transform: uppercase;
+      padding:0;
+      color:$white;
+      border:none;
+      font-size: 20px;
+      margin-top:20px;
+    }
+  }
+  
+  h2 {
+  	margin-top:60px;
+    font-size: 44px;
+  }
+	@media (min-width: $bp-xlg-min) {
+		padding:60px 100px;
+	}
+  .footer-top {
+    .footer-logo {
+      @media (min-width: $bp-md-min) {
+        position: relative;
+        left:-45px;
+      }
+    }
+  }
+
+  .footer-bottom {
+    margin-top: 50px;
+    .footer-logo-image {
+
+    }
+    .contact-info {
+      margin-top: 20px;
+      color:$red;
+      font-size: calc(12px + (15 - 12) * (100vw - 320px) / (1440 - 320));
+      p{
+        /*font-size: calc(13px + (15 - 13) * (100vw - 320px) / (1440 - 320));*/
+        line-height: 1.6;
+        margin-bottom: 0;
+        float:left;
+        @media (min-width: $bp-md-min) {
+          float:none;
+        }
+      }
+      .text {
+        color:$white;
+        margin:6px 0;
+        display:block;
+        &:first-of-type {
+          margin-left:0;
+        }
+        @media (min-width: $bp-md-min) {
+          display:inline-block;
+          margin:0 6px;
+        }
+      }
+      span {
+        @media (min-width: $bp-md-min) {
+          display:inline-block!important;
+        }
+      }
+      a {
+        color:$white;
+        &:hover {
+          color:$red;
+        }
+      }
+    }
+    .back-to-top {
+      margin-top: 70px;
+      display: block;
+      float:right;
+      @media (min-width: $bp-md-min) {
+        margin-top:0;
+        float:none;
+      }
+    }
+  }
+	
+}

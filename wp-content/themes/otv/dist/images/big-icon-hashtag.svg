@@ -1,0 +1,21 @@
+<svg id="hashtag-feature" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219 256.97">
+	<defs>
+		<style>
+			.cls-1{fill:#fff}.cls-3{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.14px;stroke-dasharray:0 5.36}
+		</style>
+	</defs>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<path class="cls-1 dotfade" d="M192 3v18.29h-2.2V3h-6.05V1.07h14.34V3z" style="animation:hAkTQXBE_draw 2000ms linear 0ms forwards" stroke-dasharray="70 72" stroke-dashoffset="71" />
+			<path class="cls-1 dotfade" d="M217 21.29V2.81h-.09l-5.65 18.48h-1.74l-5.69-18.48h-.09v18.48h-2V1.07h3.47l5.15 16.35h.06l5.06-16.35H219v20.22z" style="animation:hAkTQXBE_draw 2000ms linear 166ms forwards" stroke-dasharray="164 166" stroke-dashoffset="165" />
+			<path d="M115.34 179.84H63.46L53.3 255.9H22.45l10.17-76.06H1.07v-30.15h35.4l5.61-42.41H10.54V77.13h35.4L56.1 1.07H87L76.78 77.13h51.88l10.17-76.06h30.84l-10.16 76.06h31.54v30.15h-35.4L150 149.69h31.55v30.15h-35.4L136 255.9h-30.82zm9.47-72.56H72.93l-5.61 42.41h51.88z" style="animation:hAkTQXBE_draw 2000ms linear 333ms forwards" stroke-dasharray="1505 1507" stroke-dashoffset="1506" stroke-miterlimit="10" stroke-width="1.5" fill="none" stroke="#fff" />
+			<path class="cls-3 dotfade2" d="M72.05 1.07l-34 254.83" style="animation:hAkTQXBE_draw 5000ms linear 500ms forwards infinite" stroke-dasharray="258 260" stroke-dashoffset="259" />
+			<path class="cls-3 dotfade2" d="M154.75 1.07l-34 254.83" style="animation:hAkTQXBE_draw 5000ms linear 666ms forwards infinite" stroke-dasharray="258 260" stroke-dashoffset="259" />
+			<path class="cls-3 dotfade2" d="M9.55 92.19h181.5" style="animation:hAkTQXBE_draw 5000ms linear 833ms forwards infinite" stroke-dasharray="182 184" stroke-dashoffset="183" />
+			<path class="cls-3 dotfade2" d="M1.07 165.87h181.5" style="animation:hAkTQXBE_draw 5000ms linear 1000ms forwards infinite" stroke-dasharray="182 184" stroke-dashoffset="183" />
+		</g>
+	</g>
+	<style data-made-with="vivus-instant">
+		@keyframes hAkTQXBE_draw{to{stroke-dashoffset:0}}@keyframes hAkTQXBE_fade{0%,94.44444444444444%{stroke-opacity:1}to{stroke-opacity:0}}
+	</style>
+</svg>
