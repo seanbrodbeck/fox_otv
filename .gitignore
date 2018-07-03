@@ -1,5 +1,6 @@
 *.log
 wp-content/themes/otv/node_modules
+wp-content/themes/otv/package-lock.json
 /.htaccess
 /license.txt
 /readme.html
