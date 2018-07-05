@@ -4,7 +4,7 @@ On the Verge
 To compile SCSS:
 
 1. In terminal clone the repository "git clone https://github.com/seanbrodbeck/fox_otv.git"
-2. cd to /wp-content/themes/sra/
+2. cd to /wp-content/themes/otv/
 3. Run "npm install" to install packages
 4. Once packages have installed run "npm run dev" to begin compiling CSS (SASS)
 
