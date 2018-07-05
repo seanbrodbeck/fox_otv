@@ -15,7 +15,7 @@ main {
 		&#landing-hero {
 			height:515px;
 			padding:0;
-			background:url('/wp-content/themes/otv/dist/images/mobile-hero-bkg.gif') no-repeat;
+			background:url('/ontheverge/wp-content/themes/otv/dist/images/mobile-hero-bkg.gif') no-repeat;
 			background-size: cover;
 			@media (min-width: $bp-sm-min) {
 				height:86vh;
@@ -252,7 +252,7 @@ main {
 
 		&#what-is-data-science {
 			padding: calc(60px + (200 - 60) * (100vw - 400px) / (1440 - 400)) 0 0;
-			background:url(/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
+			background:url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
 			background-size: 100% auto;
 			position: relative;
 			/*z-index: -1;*/
@@ -275,7 +275,7 @@ main {
 		}
 
 		&#every-60-seconds {
-			background:url(/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
+			background:url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
 			background-size: 100% auto;
 			.sixty-secs {
 				position:relative;
@@ -353,7 +353,7 @@ main {
 		}
 
 		&#data-science-diagram {
-			background:url(/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
+			background:url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
 			background-size: 100% auto;
 			.diagram-wrap {
 				position: relative;
@@ -463,12 +463,12 @@ main {
 		}
 
 		&#what-is-data-science-contd {
-			background:url(/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
+			background:url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
 			background-size: 100% auto;
 		}
 
 		&#why-is-data-science-important {
-			background:url(/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
+			background:url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
 			background-size: 100% auto;
 			position: relative;
 			.bkg-burst-why {
@@ -492,7 +492,7 @@ main {
 		}
 
 		&#how-do-we-innovate-in-data-science {
-			background:url(/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
+			background:url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
 			background-size: 100% auto;
 			position: relative;
 			.story-list {
@@ -572,10 +572,10 @@ main {
 
 		&#article-header {
 			padding: calc(18px + (60 - 18) * (100vw - 400px) / (1440 - 400)) 0 calc(18px + (100 - 18) * (100vw - 400px) / (1440 - 400));
-			background: url('/wp-content/themes/otv/dist/images/grunge-article.gif') no-repeat top right;
+			background: url('/ontheverge/wp-content/themes/otv/dist/images/grunge-article.gif') no-repeat top right;
 			background-size: 100% auto;
 			@media (min-width: $bp-md-min) {
-				background: url('/wp-content/themes/otv/dist/images/grunge-article.gif') no-repeat top right;
+				background: url('/ontheverge/wp-content/themes/otv/dist/images/grunge-article.gif') no-repeat top right;
 				background-size: inherit;
 			}
 			.article-icon {
@@ -627,7 +627,7 @@ main {
 				}
 			}
 			.article-icon-wrap {
-				background: url('/wp-content/themes/otv/dist/images/big-icon-bkg.svg') no-repeat center;
+				background: url('/ontheverge/wp-content/themes/otv/dist/images/big-icon-bkg.svg') no-repeat center;
 				background-size: 100% auto;
 				text-align: center;
 				padding:0 3%;
@@ -663,7 +663,7 @@ main {
 		}
 
 		&#article-content {
-			background: url('/wp-content/themes/otv/dist/images/grunge-home-2.jpg') no-repeat bottom ;
+			background: url('/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg') no-repeat bottom ;
 			background-size: 100% auto;
 			padding-bottom:0;
 			position: relative;

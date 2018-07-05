@@ -14,7 +14,7 @@ get_header();
 		<main id="main" class="site-main">
 
 			<section id="article-header">
-				<a href="/"><img class="otv-article-logo" src="/wp-content/themes/otv/dist/images/otv-logo-header.svg" width="220" height="auto"></a>
+				<a href="/"><img class="otv-article-logo" src="/ontheverge/wp-content/themes/otv/dist/images/otv-logo-header.svg" width="220" height="auto"></a>
 				<div class="container">
 					<div class="row flexcenter">
 						<div class="col-md-5 article-icon">
@@ -28,7 +28,7 @@ get_header();
 							<p class="large red"><?php the_field('article_subheader')?></p>
 						</div>
 					</div>
-					<div class="jumpdown nojumpmobile"><a class="jumpdownlink bounce" href="#article-content"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+					<div class="jumpdown nojumpmobile"><a class="jumpdownlink bounce" href="#article-content"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 				</div>
 			</section>
 
@@ -45,7 +45,7 @@ get_header();
 					<ul>
 					<?php while(has_sub_field('story_sections')): ?>
 						<li>
-							<h2><span><?php the_sub_field('story_section_title'); ?></span> <img src="/wp-content/themes/otv/dist/images/icon-plus.svg" /></h2>
+							<h2><span><?php the_sub_field('story_section_title'); ?></span> <img src="/ontheverge/wp-content/themes/otv/dist/images/icon-plus.svg" /></h2>
 						</li>
 					<?php endwhile; ?>
 					</ul>
@@ -54,7 +54,7 @@ get_header();
 				<div id="story-jump" class="stories">
 					<?php if( have_rows('story_sections') ): ?><?php while( have_rows('story_sections') ): the_row(); ?>
 						<div class="story-item">
-							<div class="close-story"><img src="/wp-content/themes/otv/dist/images/icon-close.svg" width="15" height="auto"/></div>
+							<div class="close-story"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-close.svg" width="15" height="auto"/></div>
 							<div class="story-outter-wrap">
 								<div class="story-inner-wrap">
 

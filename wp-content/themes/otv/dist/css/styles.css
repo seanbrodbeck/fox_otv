@@ -540,7 +540,7 @@ main {
     main section#landing-hero {
       height: 515px;
       padding: 0;
-      background: url("/wp-content/themes/otv/dist/images/mobile-hero-bkg.gif") no-repeat;
+      background: url("/ontheverge/wp-content/themes/otv/dist/images/mobile-hero-bkg.gif") no-repeat;
       background-size: cover;
       /*			min-height: 700px;*/ }
       @media (min-width: 768px) {
@@ -728,7 +728,7 @@ main {
         margin-bottom: 0; }
     main section#what-is-data-science {
       padding: calc(60px + (200 - 60) * (100vw - 400px) / (1440 - 400)) 0 0;
-      background: url(/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
+      background: url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
       background-size: 100% auto;
       position: relative;
       /*z-index: -1;*/ }
@@ -747,7 +747,7 @@ main {
             top: 7%;
             z-index: inherit; } }
     main section#every-60-seconds {
-      background: url(/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
+      background: url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
       background-size: 100% auto; }
       main section#every-60-seconds .sixty-secs {
         position: relative; }
@@ -814,7 +814,7 @@ main {
           main section#every-60-seconds .stat-wrap .stat:hover .stat-text {
             opacity: 1; }
     main section#data-science-diagram {
-      background: url(/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
+      background: url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
       background-size: 100% auto; }
       main section#data-science-diagram .diagram-wrap {
         position: relative;
@@ -908,10 +908,10 @@ main {
           transform: translateX(-50%);
           display: none; }
     main section#what-is-data-science-contd {
-      background: url(/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
+      background: url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
       background-size: 100% auto; }
     main section#why-is-data-science-important {
-      background: url(/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
+      background: url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-1.jpg) no-repeat top;
       background-size: 100% auto;
       position: relative; }
       main section#why-is-data-science-important .bkg-burst-why {
@@ -930,7 +930,7 @@ main {
         position: relative;
         z-index: 1; }
     main section#how-do-we-innovate-in-data-science {
-      background: url(/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
+      background: url(/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg) no-repeat top;
       background-size: 100% auto;
       position: relative; }
       main section#how-do-we-innovate-in-data-science .story-list {
@@ -992,11 +992,11 @@ main {
         margin-bottom: 60px; }
     main section#article-header {
       padding: calc(18px + (60 - 18) * (100vw - 400px) / (1440 - 400)) 0 calc(18px + (100 - 18) * (100vw - 400px) / (1440 - 400));
-      background: url("/wp-content/themes/otv/dist/images/grunge-article.gif") no-repeat top right;
+      background: url("/ontheverge/wp-content/themes/otv/dist/images/grunge-article.gif") no-repeat top right;
       background-size: 100% auto; }
       @media (min-width: 992px) {
         main section#article-header {
-          background: url("/wp-content/themes/otv/dist/images/grunge-article.gif") no-repeat top right;
+          background: url("/ontheverge/wp-content/themes/otv/dist/images/grunge-article.gif") no-repeat top right;
           background-size: inherit; } }
       main section#article-header .article-icon {
         -webkit-box-ordinal-group: 2;
@@ -1056,7 +1056,7 @@ main {
             width: 220px;
             height: auto; } }
       main section#article-header .article-icon-wrap {
-        background: url("/wp-content/themes/otv/dist/images/big-icon-bkg.svg") no-repeat center;
+        background: url("/ontheverge/wp-content/themes/otv/dist/images/big-icon-bkg.svg") no-repeat center;
         background-size: 100% auto;
         text-align: center;
         padding: 0 3%;
@@ -1092,7 +1092,7 @@ main {
             position: relative;
             right: -15px; }
     main section#article-content {
-      background: url("/wp-content/themes/otv/dist/images/grunge-home-2.jpg") no-repeat bottom;
+      background: url("/ontheverge/wp-content/themes/otv/dist/images/grunge-home-2.jpg") no-repeat bottom;
       background-size: 100% auto;
       padding-bottom: 0;
       position: relative;

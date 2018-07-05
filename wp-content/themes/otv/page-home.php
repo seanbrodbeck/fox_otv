@@ -14,16 +14,16 @@ get_header();
 		<main id="main" class="site-main">
 
 		<section id="landing-hero">
-			<div class="logo"><img class="logo-image" src="/wp-content/themes/otv/dist/images/otv-logo-home.svg" width="220" height="auto"/></div>
+			<div class="logo"><img class="logo-image" src="/ontheverge/wp-content/themes/otv/dist/images/otv-logo-home.svg" width="220" height="auto"/></div>
 
 				<div class="landing-content">
-					<div class="badge"><a href="#colophon"><img class="ringspin" src="/wp-content/themes/otv/dist/images/badgering.svg" width="140" height="auto"/><img src="/wp-content/themes/otv/dist/images/badge-v2.svg" width="150" height="auto"/></a></div>
+					<div class="badge"><a href="#colophon"><img class="ringspin" src="/ontheverge/wp-content/themes/otv/dist/images/badgering.svg" width="140" height="auto"/><img src="/ontheverge/wp-content/themes/otv/dist/images/badge-v2.svg" width="150" height="auto"/></a></div>
 					<div class="headlines">
-						<a class="headline headline-1" href="#how-do-we-innovate-in-data-science"><span>How Do</span> We Innovate in Data Science? <img src="/wp-content/themes/otv/dist/images/icon-plus.svg"/></a>
-						<a class="headline headline-2" href="#what-is-data-science"><span>What Is</span> Data Science? <img src="/wp-content/themes/otv/dist/images/icon-plus.svg"/></a>
-						<a class="headline headline-3" href="#why-is-data-science-important"><span>Why Is</span> Data Science Important? <img src="/wp-content/themes/otv/dist/images/icon-plus.svg" /></a>
+						<a class="headline headline-1" href="#how-do-we-innovate-in-data-science"><span>How Do</span> We Innovate in Data Science? <img src="/ontheverge/wp-content/themes/otv/dist/images/icon-plus.svg"/></a>
+						<a class="headline headline-2" href="#what-is-data-science"><span>What Is</span> Data Science? <img src="/ontheverge/wp-content/themes/otv/dist/images/icon-plus.svg"/></a>
+						<a class="headline headline-3" href="#why-is-data-science-important"><span>Why Is</span> Data Science Important? <img src="/ontheverge/wp-content/themes/otv/dist/images/icon-plus.svg" /></a>
 					</div>
-					<div class="jumpdown nojumpmobile"><a class="jumpdownlink bounce" style="display:none;" href="#what-is-data-science"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+					<div class="jumpdown nojumpmobile"><a class="jumpdownlink bounce" style="display:none;" href="#what-is-data-science"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 				</div>
 
 
@@ -491,7 +491,7 @@ get_header();
 	</style>
 </svg>
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#every-60-seconds"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#every-60-seconds"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		<section id="every-60-seconds">
@@ -500,7 +500,7 @@ get_header();
 						<div class="col-md-8 offset-md-2">
 							<div class="row flexcenter">
 								<div class="col-md-5 sixty-secs">
-									<img src="/wp-content/themes/otv/dist/images/every-60-secs.svg" width="100%" height="auto">
+									<img src="/ontheverge/wp-content/themes/otv/dist/images/every-60-secs.svg" width="100%" height="auto">
 								</div>
 								<div class="col-md-5 offset-md-2">
 									<div class="stat-wrap">
@@ -541,7 +541,7 @@ get_header();
 					</div>
 				
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#data-science-diagram"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#data-science-diagram"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		<section id="data-science-diagram">
@@ -550,25 +550,25 @@ get_header();
 					<div class="col-md-8 offset-md-2">
 
 						<div class="desktop-only diagram-wrap">
-							<img class="diagram-section-title computer-science" src="/wp-content/themes/otv/dist/images/diagram-cst.svg">
-							<img class="diagram-section-title statistics" src="/wp-content/themes/otv/dist/images/diagram-stats.svg">
-							<img class="diagram-section-title business" src="/wp-content/themes/otv/dist/images/diagram-business.svg">
-							<img class="diagram-title-overlap" src="/wp-content/themes/otv/dist/images/diagram-overlap-titles.svg">
-							<img class="diagram-dots" src="/wp-content/themes/otv/dist/images/diagram-dots.svg">
-							<img class="diagram-title" src="/wp-content/themes/otv/dist/images/diagram-title.svg">
-							<img class="ring ring1" src="/wp-content/themes/otv/dist/images/diagram-ring.svg">
-							<img class="ring ring2" src="/wp-content/themes/otv/dist/images/diagram-ring.svg">
-							<img class="ring ring3" src="/wp-content/themes/otv/dist/images/diagram-ring.svg">
+							<img class="diagram-section-title computer-science" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-cst.svg">
+							<img class="diagram-section-title statistics" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-stats.svg">
+							<img class="diagram-section-title business" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-business.svg">
+							<img class="diagram-title-overlap" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-overlap-titles.svg">
+							<img class="diagram-dots" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-dots.svg">
+							<img class="diagram-title" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-title.svg">
+							<img class="ring ring1" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-ring.svg">
+							<img class="ring ring2" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-ring.svg">
+							<img class="ring ring3" src="/ontheverge/wp-content/themes/otv/dist/images/diagram-ring.svg">
 						</div>
 						<div class="mobile-only">
-							<img class="diagram-section-title computer-science" src="/wp-content/themes/otv/dist/images/mobile-diagram.svg" width="100%" height="auto">
+							<img class="diagram-section-title computer-science" src="/ontheverge/wp-content/themes/otv/dist/images/mobile-diagram.svg" width="100%" height="auto">
 						</div>
 						
 					</div>
 				</div>
 				
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#what-is-data-science-contd"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#what-is-data-science-contd"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		<section id="what-is-data-science-contd">
@@ -580,7 +580,7 @@ get_header();
 					</div>
 				</div>
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#why-is-data-science-important"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#why-is-data-science-important"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		<section id="why-is-data-science-important">
@@ -654,7 +654,7 @@ get_header();
 						  </g>
 						<style data-made-with="vivus-instant">.fADxdqYw_0{stroke-dasharray:139 141;stroke-dashoffset:140;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_1{stroke-dasharray:122 124;stroke-dashoffset:123;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_2{stroke-dasharray:57 59;stroke-dashoffset:58;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_3{stroke-dasharray:130 132;stroke-dashoffset:131;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_4{stroke-dasharray:120 122;stroke-dashoffset:121;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_5{stroke-dasharray:37 39;stroke-dashoffset:38;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_6{stroke-dasharray:73 75;stroke-dashoffset:74;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_7{stroke-dasharray:93 95;stroke-dashoffset:94;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_8{stroke-dasharray:39 41;stroke-dashoffset:40;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_9{stroke-dasharray:130 132;stroke-dashoffset:131;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_10{stroke-dasharray:134 136;stroke-dashoffset:135;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_11{stroke-dasharray:73 75;stroke-dashoffset:74;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_12{stroke-dasharray:90 92;stroke-dashoffset:91;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_13{stroke-dasharray:148 150;stroke-dashoffset:149;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_14{stroke-dasharray:73 75;stroke-dashoffset:74;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_15{stroke-dasharray:161 163;stroke-dashoffset:162;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_16{stroke-dasharray:53 55;stroke-dashoffset:54;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_17{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_18{stroke-dasharray:129 131;stroke-dashoffset:130;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_19{stroke-dasharray:60 62;stroke-dashoffset:61;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_20{stroke-dasharray:119 121;stroke-dashoffset:120;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_21{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_22{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_23{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_24{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_25{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_26{stroke-dasharray:37 39;stroke-dashoffset:38;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_27{stroke-dasharray:73 75;stroke-dashoffset:74;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_28{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_29{stroke-dasharray:36 38;stroke-dashoffset:37;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_30{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_31{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_32{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_33{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_34{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}.fADxdqYw_35{stroke-dasharray:23 25;stroke-dashoffset:24;animation:fADxdqYw_draw 1800ms ease-in 0ms forwards;}@keyframes fADxdqYw_draw{100%{stroke-dashoffset:0;}}@keyframes fADxdqYw_fade{0%{stroke-opacity:1;}93.33333333333333%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#how-do-we-innovate-in-data-science"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#how-do-we-innovate-in-data-science"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		<section id="how-do-we-innovate-in-data-science">
@@ -667,11 +667,11 @@ get_header();
 				<div class="row">
 					<div class="col-md-6 offset-md-6">
 						<div class="story-list">
-							<a class="story-list-link" href="/in-love-with-big-data"><img src="/wp-content/themes/otv/dist/images/icon-big-data.svg">In Love With Big Data</a>
-							<a class="story-list-link" href="/whats-a-hashtag-worth"><img src="/wp-content/themes/otv/dist/images/icon-hashtag.svg">What’s a Hashtag Worth?</a>
-							<a class="story-list-link" href="/personalizing-education"><img src="/wp-content/themes/otv/dist/images/icon-education.svg">Personalizing Education</a>
-							<a class="story-list-link" href="/can-uber-buy-you-a-benz"><img src="/wp-content/themes/otv/dist/images/icon-uber.svg">Can Uber Buy You a Benz?</a>
-							<a class="story-list-link" href="/calculating-new-ideas"><img src="/wp-content/themes/otv/dist/images/icon-new-ideas.svg">Calculating New Ideas</a>
+							<a class="story-list-link" href="/in-love-with-big-data"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-big-data.svg">In Love With Big Data</a>
+							<a class="story-list-link" href="/whats-a-hashtag-worth"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-hashtag.svg">What’s a Hashtag Worth?</a>
+							<a class="story-list-link" href="/personalizing-education"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-education.svg">Personalizing Education</a>
+							<a class="story-list-link" href="/can-uber-buy-you-a-benz"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-uber.svg">Can Uber Buy You a Benz?</a>
+							<a class="story-list-link" href="/calculating-new-ideas"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-new-ideas.svg">Calculating New Ideas</a>
 						</div>
 					</div>
 				</div>
@@ -728,9 +728,9 @@ get_header();
 		.EQlkDcsn_0{stroke-dasharray:139 141;stroke-dashoffset:140;animation:EQlkDcsn_draw 1200ms linear 0ms forwards;}.EQlkDcsn_1{stroke-dasharray:121 123;stroke-dashoffset:122;animation:EQlkDcsn_draw 1200ms linear 17ms forwards;}.EQlkDcsn_2{stroke-dasharray:57 59;stroke-dashoffset:58;animation:EQlkDcsn_draw 1200ms linear 35ms forwards;}.EQlkDcsn_3{stroke-dasharray:130 132;stroke-dashoffset:131;animation:EQlkDcsn_draw 1200ms linear 52ms forwards;}.EQlkDcsn_4{stroke-dasharray:120 122;stroke-dashoffset:121;animation:EQlkDcsn_draw 1200ms linear 70ms forwards;}.EQlkDcsn_5{stroke-dasharray:37 39;stroke-dashoffset:38;animation:EQlkDcsn_draw 1200ms linear 88ms forwards;}.EQlkDcsn_6{stroke-dasharray:73 75;stroke-dashoffset:74;animation:EQlkDcsn_draw 1200ms linear 105ms forwards;}.EQlkDcsn_7{stroke-dasharray:93 95;stroke-dashoffset:94;animation:EQlkDcsn_draw 1200ms linear 123ms forwards;}.EQlkDcsn_8{stroke-dasharray:40 42;stroke-dashoffset:41;animation:EQlkDcsn_draw 1200ms linear 141ms forwards;}.EQlkDcsn_9{stroke-dasharray:130 132;stroke-dashoffset:131;animation:EQlkDcsn_draw 1200ms linear 158ms forwards;}.EQlkDcsn_10{stroke-dasharray:165 167;stroke-dashoffset:166;animation:EQlkDcsn_draw 1200ms linear 176ms forwards;}.EQlkDcsn_11{stroke-dasharray:73 75;stroke-dashoffset:74;animation:EQlkDcsn_draw 1200ms linear 194ms forwards;}.EQlkDcsn_12{stroke-dasharray:90 92;stroke-dashoffset:91;animation:EQlkDcsn_draw 1200ms linear 211ms forwards;}.EQlkDcsn_13{stroke-dasharray:110 112;stroke-dashoffset:111;animation:EQlkDcsn_draw 1200ms linear 229ms forwards;}.EQlkDcsn_14{stroke-dasharray:73 75;stroke-dashoffset:74;animation:EQlkDcsn_draw 1200ms linear 247ms forwards;}.EQlkDcsn_15{stroke-dasharray:125 127;stroke-dashoffset:126;animation:EQlkDcsn_draw 1200ms linear 264ms forwards;}.EQlkDcsn_16{stroke-dasharray:53 55;stroke-dashoffset:54;animation:EQlkDcsn_draw 1200ms linear 282ms forwards;}.EQlkDcsn_17{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 300ms forwards;}.EQlkDcsn_18{stroke-dasharray:60 62;stroke-dashoffset:61;animation:EQlkDcsn_draw 1200ms linear 317ms forwards;}.EQlkDcsn_19{stroke-dasharray:119 121;stroke-dashoffset:120;animation:EQlkDcsn_draw 1200ms linear 335ms forwards;}.EQlkDcsn_20{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 352ms forwards;}.EQlkDcsn_21{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 370ms forwards;}.EQlkDcsn_22{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 388ms forwards;}.EQlkDcsn_23{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 405ms forwards;}.EQlkDcsn_24{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 423ms forwards;}.EQlkDcsn_25{stroke-dasharray:36 38;stroke-dashoffset:37;animation:EQlkDcsn_draw 1200ms linear 441ms forwards;}.EQlkDcsn_26{stroke-dasharray:71 73;stroke-dashoffset:72;animation:EQlkDcsn_draw 1200ms linear 458ms forwards;}.EQlkDcsn_27{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 476ms forwards;}.EQlkDcsn_28{stroke-dasharray:36 38;stroke-dashoffset:37;animation:EQlkDcsn_draw 1200ms linear 494ms forwards;}.EQlkDcsn_29{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 511ms forwards;}.EQlkDcsn_30{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 529ms forwards;}.EQlkDcsn_31{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 547ms forwards;}.EQlkDcsn_32{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 564ms forwards;}.EQlkDcsn_33{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 582ms forwards;}.EQlkDcsn_34{stroke-dasharray:23 25;stroke-dashoffset:24;animation:EQlkDcsn_draw 1200ms linear 600ms forwards;}@keyframes EQlkDcsn_draw{100%{stroke-dashoffset:0;}}@keyframes EQlkDcsn_fade{0%{stroke-opacity:1;}93.33333333333333%{stroke-opacity:1;}100%{stroke-opacity:0;}}
 	</style>
 </svg>
-				<!-- <img src="/wp-content/themes/otv/dist/images/burst-how-do-we-innovate.svg"> -->
+				<!-- <img src="/ontheverge/wp-content/themes/otv/dist/images/burst-how-do-we-innovate.svg"> -->
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#data-science-faculty"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#data-science-faculty"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		<section id="data-science-faculty">
@@ -757,7 +757,7 @@ get_header();
 				</div>
 			</div>
 			</div>
-			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#colophon"><img src="/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
+			<div class="jumpdown nojumpmobile"><a class="jumpdownlink" href="#colophon"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down.svg"></a></div>
 		</section>
 
 		</main><!-- #main -->
@@ -769,7 +769,7 @@ get_header();
 			<div class="container">
 				<div class="row footer-top">
 					<div class="col-md-12">
-						<div class="footer-logo"><img class="logo-image" src="/wp-content/themes/otv/dist/images/otv-logo-footer.svg" width="150" height="auto"/></div>
+						<div class="footer-logo"><img class="logo-image" src="/ontheverge/wp-content/themes/otv/dist/images/otv-logo-footer.svg" width="150" height="auto"/></div>
 						<h2>On the Verge</h2>
 					</div>
 				</div>
@@ -782,13 +782,13 @@ get_header();
 						
 					</div>
 					<div class="col-lg-5 offset-lg-1">
-						<img src="/wp-content/themes/otv/dist/images/otv-cover.jpg" alt="On the Verge, Data Science Issue" width="100%" height="auto">
+						<img src="/ontheverge/wp-content/themes/otv/dist/images/otv-cover.jpg" alt="On the Verge, Data Science Issue" width="100%" height="auto">
 					</div>
 				</div>
 				<div class="footer-bottom">
 					<div class="row align-bottom">
 						<div class="col-md-11">
-							<img class="footer-logo-image" src="/wp-content/themes/otv/dist/images/tu-logo.svg" width="250" height="auto"/>
+							<img class="footer-logo-image" src="/ontheverge/wp-content/themes/otv/dist/images/tu-logo.svg" width="250" height="auto"/>
 							<div class="contact-info">
 								<p>
 									<span class="text">1801 Liacouras Walk</span><span class="desktop-only">|</span>
@@ -796,11 +796,11 @@ get_header();
 									<span class="text"><a href="tel:215-204-7676">215.204.7676</a></span><span class="desktop-only">|</span>
 									<span class="text"><a href="mailto:foxinfo@temple.edu">foxinfo@temple.edu</a></span> 
 								</p>
-								<a class="mobile-only back-to-top"><img src="/wp-content/themes/otv/dist/images/icon-back-to-top.svg" alt="Take me back to the top of the page" width="60" height="auto"></a>
+								<a class="mobile-only back-to-top"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-back-to-top.svg" alt="Take me back to the top of the page" width="60" height="auto"></a>
 							</div>
 						</div>
 						<div class="col-md-1 desktop-only">
-							<a class="back-to-top"><img src="/wp-content/themes/otv/dist/images/icon-back-to-top.svg" alt="Take me back to the top of the page" width="60" height="auto"></a>
+							<a class="back-to-top"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-back-to-top.svg" alt="Take me back to the top of the page" width="60" height="auto"></a>
 						</div>
 					</div>
 				</div>
