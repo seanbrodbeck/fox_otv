@@ -667,11 +667,11 @@ get_header();
 				<div class="row">
 					<div class="col-md-6 offset-md-6">
 						<div class="story-list">
-							<a class="story-list-link" href="/in-love-with-big-data"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-big-data.svg">In Love With Big Data</a>
-							<a class="story-list-link" href="/whats-a-hashtag-worth"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-hashtag.svg">What’s a Hashtag Worth?</a>
-							<a class="story-list-link" href="/personalizing-education"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-education.svg">Personalizing Education</a>
-							<a class="story-list-link" href="/can-uber-buy-you-a-benz"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-uber.svg">Can Uber Buy You a Benz?</a>
-							<a class="story-list-link" href="/calculating-new-ideas"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-new-ideas.svg">Calculating New Ideas</a>
+							<a class="story-list-link" href="/ontheverge/in-love-with-big-data"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-big-data.svg">In Love With Big Data</a>
+							<a class="story-list-link" href="/ontheverge/whats-a-hashtag-worth"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-hashtag.svg">What’s a Hashtag Worth?</a>
+							<a class="story-list-link" href="/ontheverge/personalizing-education"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-education.svg">Personalizing Education</a>
+							<a class="story-list-link" href="/ontheverge/can-uber-buy-you-a-benz"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-uber.svg">Can Uber Buy You a Benz?</a>
+							<a class="story-list-link" href="/ontheverge/calculating-new-ideas"><img src="/ontheverge/wp-content/themes/otv/dist/images/icon-new-ideas.svg">Calculating New Ideas</a>
 						</div>
 					</div>
 				</div>

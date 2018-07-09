@@ -62,11 +62,11 @@
 			<div class="overlay">
 				<div class="desktop-only close-menu"><img src="/ontheverge/wp-content/themes/otv/dist/images/close.svg" width="10" height="auto" alt="Close Menu"/></div>
 			 	<ul class="menu-items-text">
-			 		<li class="story-list-link"><a href="/in-love-with-big-data"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-data.svg" alt="In Love With Big Data"><span class="nav-title">In Love With Big Data</span><span class="mobile-only nav-number">01</span></a></li>
-					<li class="story-list-link"><a href="/whats-a-hashtag-worth"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-hashtag.svg" alt="What’s a Hashtag Worth?"><span class="nav-title">What’s a Hashtag Worth?</span><span class="mobile-only nav-number">02</span></a></li>
-					<li class="story-list-link"><a href="/personalizing-education"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-education.svg" alt="Personalizing Education"><span class="nav-title">Personalizing Education</span><span class="mobile-only nav-number">03</span></a></li>
-					<li class="story-list-link"><a href="/can-uber-buy-you-a-benz"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-uber.svg" alt="Can Uber Buy You a Benz?"><span class="nav-title">Can Uber Buy You a Benz?</span><span class="mobile-only nav-number">04</span></a></li>
-					<li class="story-list-link"><a href="/calculating-new-ideas"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-ideas.svg" alt="Calculating New Ideas"><span class="nav-title">Calculating New Ideas</span><span class="mobile-only nav-number last">05</span></a></li>
+			 		<li class="story-list-link"><a href="/ontheverge/in-love-with-big-data"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-data.svg" alt="In Love With Big Data"><span class="nav-title">In Love With Big Data</span><span class="mobile-only nav-number">01</span></a></li>
+					<li class="story-list-link"><a href="/ontheverge/whats-a-hashtag-worth"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-hashtag.svg" alt="What’s a Hashtag Worth?"><span class="nav-title">What’s a Hashtag Worth?</span><span class="mobile-only nav-number">02</span></a></li>
+					<li class="story-list-link"><a href="/ontheverge/personalizing-education"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-education.svg" alt="Personalizing Education"><span class="nav-title">Personalizing Education</span><span class="mobile-only nav-number">03</span></a></li>
+					<li class="story-list-link"><a href="/ontheverge/can-uber-buy-you-a-benz"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-uber.svg" alt="Can Uber Buy You a Benz?"><span class="nav-title">Can Uber Buy You a Benz?</span><span class="mobile-only nav-number">04</span></a></li>
+					<li class="story-list-link"><a href="/ontheverge/calculating-new-ideas"><img src="/ontheverge/wp-content/themes/otv/dist/images/nav-icon-ideas.svg" alt="Calculating New Ideas"><span class="nav-title">Calculating New Ideas</span><span class="mobile-only nav-number last">05</span></a></li>
 			 	</ul>
 		</div>
 		</div>
