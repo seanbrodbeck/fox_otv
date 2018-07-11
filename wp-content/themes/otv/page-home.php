@@ -767,7 +767,7 @@ get_header();
 
 		<footer id="colophon" class="site-footer">
 			<div class="container">
-				<div class="row footer-top">
+				<div id="sign-up" class="row footer-top">
 					<div class="col-md-12">
 						<div class="footer-logo"><img class="logo-image" src="/ontheverge/wp-content/themes/otv/dist/images/otv-logo-footer.svg" width="150" height="auto"/></div>
 						<h2>On the Verge</h2>

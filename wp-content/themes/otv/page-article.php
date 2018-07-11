@@ -14,7 +14,7 @@ get_header();
 		<main id="main" class="site-main">
 
 			<section id="article-header">
-				<a href="/"><img class="otv-article-logo" src="/ontheverge/wp-content/themes/otv/dist/images/otv-logo-header.svg" width="220" height="auto"></a>
+				<a href="/ontheverge/"><img class="otv-article-logo" src="/ontheverge/wp-content/themes/otv/dist/images/otv-logo-header.svg" width="220" height="auto"></a>
 				<div class="container">
 					<div class="row flexcenter">
 						<div class="col-md-5 article-icon">
