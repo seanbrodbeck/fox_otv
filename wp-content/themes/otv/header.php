@@ -80,7 +80,7 @@
 			//) );
 			?>
 		</nav><!-- #site-navigation -->
-		<div class="desktop-only keep-scrolling"><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down-text.svg" width="8" height="auto" alt="Scroll Down"/></div>
+		<div class="desktop-only keep-scrolling"><div><img src="/ontheverge/wp-content/themes/otv/dist/images/scroll-down-text.svg" width="8" height="auto" alt="Scroll Down"/></div></div>
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">

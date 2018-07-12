@@ -234,7 +234,7 @@ if (window.matchMedia("(max-width: 992px)").matches) {
 		// })
 
 		var waypoints = $('#colophon').waypoint(function(direction) {
-		  $('.keep-scrolling').fadeToggle();
+		  $('.keep-scrolling div').fadeToggle();
 		}, {
 		  offset: '70%'
 		})

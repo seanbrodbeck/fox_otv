@@ -332,6 +332,11 @@ header {
         header .menu-items .menu-top {
           width: 18px;
           text-align: center; } }
+      header .menu-items .menu-top .desktop-only {
+        display: none !important; }
+        @media (min-width: 992px) {
+          header .menu-items .menu-top .desktop-only {
+            display: inline-block !important; } }
       header .menu-items .menu-top a {
         display: inline-block; }
         @media (min-width: 992px) {
@@ -472,6 +477,9 @@ header {
     right: 120px;
     display: none;
     z-index: 997; }
+    @media (min-width: 992px) {
+      header .keep-scrolling {
+        display: block; } }
 
 #tu-header {
   background: #252729;
